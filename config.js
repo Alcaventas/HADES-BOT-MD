@@ -4,7 +4,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['‪528142113343‬', '𝘼𝙇𝘾𝘼𝘽𝙊𝙏 ☄️', true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
@@ -82,19 +82,19 @@ global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
-global.rg = '*🍀 ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ ✨*'
+global.rg = '*🍀 𝗥𝗘𝗦𝗨𝗟𝗧𝗔𝗗𝗢 𝗘𝗡𝗖𝗢𝗡𝗧𝗥𝗔𝗗𝗢 ✨*'
 global.resultado = rg
-global.ag = '*⚠️ ᴀᴅᴠᴇʀᴛᴇɴᴄɪᴀ ⚠️*'
+global.ag = '*⚠️ 𝗔𝗗𝗩𝗘𝗥𝗧𝗘𝗡𝗖𝗜𝗔 ⚠️*'
 global.advertencia = ag
-global.iig = '*📌 ɪɴғᴏʀᴍᴀᴄɪᴏɴ* ✨'
+global.iig = '*📌 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗖𝗜𝗢𝗡* ✨'
 global.informacion = iig
-global.fg = '*❌ ʟᴏ sᴇɴᴛɪᴍᴏs sᴇ ʜᴀ ɢᴇɴᴇʀᴀᴅᴏ ᴜɴ ᴇʀʀᴏʀ ᴠᴜᴇʟᴠᴇ ɪɴᴛᴇɴᴛᴀʀ❌*'
+global.fg = '*❌ 𝗩𝗨𝗘𝗟𝗩𝗘 𝗔 𝗜𝗡𝗧𝗘𝗡𝗧𝗔𝗥 ❌*'
 global.fallo = fg
-global.mg = '*❗ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ʟᴏ ʜᴀ ᴜsᴀᴅᴏ ɪɴᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ*'
+global.mg = '*❗ 𝗖𝗢𝗠𝗔𝗡𝗗𝗢 𝗜𝗡𝗖𝗢𝗥𝗥𝗘𝗖𝗧𝗢*'
 global.mal = mg
 global.eeg = '*📩ˢᵁ ᴿᴱᴾᴼᴿᵀᴱ ᴴᴬ ˢᴵᴰᴼ ᴱᴺⱽᴵᴬᴰᴼ📩*'
 global.envio = eeg
-global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
+global.eg = '*🍀𝗘𝗡𝗩𝗜𝗔𝗡𝗗𝗢 𝗥𝗘𝗦𝗨𝗟𝗧𝗔𝗗𝗢✨*'
 global.exito = eg
 
 global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏ ✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍\n'
